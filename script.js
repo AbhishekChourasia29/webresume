@@ -1,13 +1,13 @@
 // Certificate images data
 const certificateImages = [
-  "certificate1.png",
-  "certificate2.png",
-  "certificate3.png",
-  "certificate4.png",
-  "certificate5.png",
-  "certificate6.png",
-  "certificate7.png",
-  "certificate8.png"
+  "img/certificate1.png",
+  "img/certificate2.png",
+  "img/certificate3.png",
+  "img/certificate4.png",
+  "img/certificate5.png",
+  "img/certificate6.png",
+  "img/certificate7.png",
+  "img/certificate8.png"
 ];
 
 // Function to dynamically add certificate images
